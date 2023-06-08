@@ -4,3 +4,5 @@ Scripts Manual
 <1-listit> Lists contents of a directory
 
 <2-bring_me_home> takes you to home directory
+
+<3-listfiles> Display current directory contents in a long format
