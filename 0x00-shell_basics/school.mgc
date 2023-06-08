@@ -1,0 +1,2 @@
+#!/bin/bash
+file -F @ -f SCHOOL /welcome/to/school
