@@ -34,3 +34,9 @@ Scripts Manual
 <101-clean_emacs>  Create a script that deletes all files in the current working directory that end with the character ~
 
 <102-tree> Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces (and lines) in your script, not more
+
+
+<103-commas>18. Life is a series of commas, not periods
+
+
+
