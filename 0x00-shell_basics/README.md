@@ -30,3 +30,5 @@ Scripts Manual
 <14-copy_html>  14. Copy HTML files
 
 <100-lets_move> 15. Let’s move
+
+<101-clean_emacs>  Create a script that deletes all files in the current working directory that end with the character ~
